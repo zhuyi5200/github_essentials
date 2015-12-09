@@ -5,5 +5,3 @@ hello world
 heiheihei
 
 pull request
-
-wolegequ
